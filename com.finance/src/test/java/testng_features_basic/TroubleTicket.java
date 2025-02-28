@@ -9,6 +9,8 @@ public void find() {
 	System.out.println("conflict");
 	
 System.out.println("jsond");
+
+System.out.println(" all");
 }
 	
 }
