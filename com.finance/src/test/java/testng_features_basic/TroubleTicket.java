@@ -1,5 +1,12 @@
 package testng_features_basic;
 
-public class TroubleTicket {
+import org.testng.annotations.Test;
 
+public class TroubleTicket {
+	
+@Test
+public void find() {
+	System.out.println("conflict");
+}
+	
 }
