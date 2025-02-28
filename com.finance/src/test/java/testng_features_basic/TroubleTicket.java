@@ -7,6 +7,8 @@ public class TroubleTicket {
 @Test
 public void find() {
 	System.out.println("conflict");
+	
+	System.out.println(")");
 }
 	
 }
