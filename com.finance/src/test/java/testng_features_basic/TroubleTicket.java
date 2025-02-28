@@ -8,7 +8,7 @@ public class TroubleTicket {
 public void find() {
 	System.out.println("conflict");
 	
-	System.out.println(")");
+System.out.println("jsond");
 }
 	
 }
