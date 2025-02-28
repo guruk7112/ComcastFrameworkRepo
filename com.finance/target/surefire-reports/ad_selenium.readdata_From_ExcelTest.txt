@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: ad_selenium.readdata_From_ExcelTest
+-------------------------------------------------------------------------------
+Tests run: 0, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.447 s -- in ad_selenium.readdata_From_ExcelTest
